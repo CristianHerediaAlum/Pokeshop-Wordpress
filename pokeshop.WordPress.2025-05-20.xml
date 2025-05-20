@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-05-20 10:22" -->
+	<!-- generator="WordPress/6.8.1" created="2025-05-20 11:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,15 +29,13 @@
 	<title>Pokeshop</title>
 	<link>http://localhost/wordpress</link>
 	<description>Tu tienda online de compraventa de cartas Pokémon</description>
-	<pubDate>Tue, 20 May 2025 10:22:09 +0000</pubDate>
+	<pubDate>Tue, 20 May 2025 11:16:58 +0000</pubDate>
 	<language>es</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/wordpress</wp:base_site_url>
 	<wp:base_blog_url>http://localhost/wordpress</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[PW]]></wp:author_login><wp:author_email><![CDATA[cris.herediabravo@alum.uca.es]]></wp:author_email><wp:author_display_name><![CDATA[PW]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[editor]]></wp:author_login><wp:author_email><![CDATA[editor@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[editor]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[colaborador]]></wp:author_login><wp:author_email><![CDATA[colaborador@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[colaborador]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -80,65 +78,6 @@
 </image> 
 
 		<item>
-		<title><![CDATA[¡Hola, mundo!]]></title>
-		<link>http://localhost/wordpress/?p=1</link>
-		<pubDate>Wed, 07 May 2025 08:03:44 +0000</pubDate>
-		<dc:creator><![CDATA[PW]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-07 10:03:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-07 08:03:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-07 15:51:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-07 13:51:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hola-mundo__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1746625880]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hola-mundo]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Un comentarista de WordPress]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://es.wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2025-05-07 10:03:44]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2025-05-07 08:03:44]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hola, esto es un comentario.
-Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
-Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title><![CDATA[Página de ejemplo]]></title>
 		<link>http://localhost/wordpress/?page_id=2</link>
 		<pubDate>Wed, 07 May 2025 08:03:44 +0000</pubDate>
@@ -309,154 +248,8 @@ Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Navegación]]></title>
-		<link>http://localhost/wordpress/?p=4</link>
-		<pubDate>Wed, 07 May 2025 08:03:54 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/2025/05/07/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-07 10:03:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-07 08:03:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-07 10:03:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-07 08:03:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Navegación]]></title>
-		<link>http://localhost/wordpress/?p=5</link>
-		<pubDate>Wed, 07 May 2025 08:03:54 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/index.php/2025/05/07/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Inicio","type":"page","id":27,"url":"http://localhost/wordpress/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Página de ejemplo","type":"page","id":2,"url":"http://localhost/wordpress/?page_id=2","kind":"post-type"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-07 10:03:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-07 08:03:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-07 16:28:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-07 14:28:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[navigation]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost/wordpress/?p=7</link>
-		<pubDate>Wed, 07 May 2025 08:08:32 +0000</pubDate>
-		<dc:creator><![CDATA[PW]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=7</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-07 10:08:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-07 08:08:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-07 10:08:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-07 08:08:32]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
-						</item>
-					<item>
-		<title><![CDATA[Pokeshop]]></title>
-		<link>http://localhost/wordpress/?p=25</link>
-		<pubDate>Wed, 07 May 2025 14:12:04 +0000</pubDate>
-		<dc:creator><![CDATA[PW]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=25</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:themeisle-blocks/advanced-columns {"id":"wp-block-themeisle-blocks-advanced-columns-2c60bc77","columns":1,"layout":"equal","layoutMobile":"collapsedRows","padding":{"top":"96px","right":"24px","bottom":"96px","left":"24px"},"paddingTablet":{"top":"64px","right":"24px","bottom":"64px","left":"24px"},"paddingMobile":{"top":"40px","bottom":"40px"},"margin":{"top":"0px","bottom":"0px"},"columnsWidth":960,"horizontalAlign":"center","columnsHeightCustom":600,"columnsHeightCustomMobile":600,"verticalAlign":"center","backgroundType":"image","backgroundImage":{"id":261,"url":"https://api.themeisle.com/sites/images/cb:otter/q:auto/wp-content/uploads/sites/664/2022/09/image-from-rawpixel-id-1054551-jpeg.jpg"},"backgroundPosition":{"x":"0.49","y":"0.51"},"backgroundRepeat":"no-repeat","backgroundSize":"cover","backgroundOverlayOpacity":30,"backgroundOverlayColor":"#000000","reverseColumnsMobile":true,"align":"full","className":"ticss-c00aadba","hasCustomCSS":true,"customCSS":""} -->
-<div id="wp-block-themeisle-blocks-advanced-columns-2c60bc77" class="wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-reverse-columns-mobile has-vertical-center ticss-c00aadba"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><!-- wp:themeisle-blocks/advanced-column {"id":"wp-block-themeisle-blocks-advanced-column-75b9263d","paddingMobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"columnWidth":"100","className":""} -->
-<div id="wp-block-themeisle-blocks-advanced-column-75b9263d" class="wp-block-themeisle-blocks-advanced-column"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-5d5675df","tag":"h1","align":"center","alignTablet":"center","alignMobile":"center","headingColor":"#ffffff","fontSize":80,"fontSizeTablet":56,"fontSizeMobile":32,"className":""} -->
-<h1 id="wp-block-themeisle-blocks-advanced-heading-5d5675df" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5d5675df">Pokeshop</h1>
-<!-- /wp:themeisle-blocks/advanced-heading -->
-
-<!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-40ecd43d","tag":"p","align":"center","alignTablet":"center","alignMobile":"center","headingColor":"#ffffff","fontSize":32,"className":""} -->
-<p id="wp-block-themeisle-blocks-advanced-heading-40ecd43d" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-40ecd43d">Tu tienda Pokémon de confianza</p>
-<!-- /wp:themeisle-blocks/advanced-heading -->
-
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:themeisle-blocks/advanced-column --></div></div>
-<!-- /wp:themeisle-blocks/advanced-columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-07 16:12:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-07 14:12:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-07 16:13:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-07 14:13:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[pokeshop__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[obfx-header-scripts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1746627234]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pokeshop]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Inicio]]></title>
-		<link>http://localhost/wordpress/</link>
+		<link>http://localhost/wordpress/?page_id=27</link>
 		<pubDate>Wed, 07 May 2025 14:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[PW]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wordpress/?page_id=27</guid>
@@ -512,12 +305,12 @@ Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2025-05-07 16:16:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-05-07 14:16:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-13 12:57:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-13 10:57:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 12:30:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 10:30:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[inicio]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[inicio__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -535,62 +328,17 @@ Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/
 		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/wordpress/?p=36</link>
-		<pubDate>Wed, 07 May 2025 14:35:28 +0000</pubDate>
-		<dc:creator><![CDATA[PW]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=36</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-07 16:35:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-07 14:35:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-07 16:35:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-07 14:35:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[36]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1747737007]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[inicio]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -789,10 +537,10 @@ Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>61</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-13 13:01:14]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-05-20 12:45:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-05-13 11:01:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-13 13:01:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-13 11:01:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 12:45:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 10:45:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[61]]></wp:post_name>
@@ -835,91 +583,9 @@ Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Título de editor]]></title>
-		<link>http://localhost/wordpress/?p=68</link>
-		<pubDate>Tue, 13 May 2025 17:51:18 +0000</pubDate>
-		<dc:creator><![CDATA[editor]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=68</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Soy la entrada del editor</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>68</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-13 19:51:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-13 17:51:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-13 19:51:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-13 17:51:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[titulo-de-editor]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[obfx-header-scripts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Título de Colaborador]]></title>
-		<link>http://localhost/wordpress/?p=71</link>
-		<pubDate>Tue, 13 May 2025 17:57:04 +0000</pubDate>
-		<dc:creator><![CDATA[colaborador]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=71</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Soy la entrada del colaborador</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>71</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-13 19:57:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-13 17:57:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-13 19:57:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-13 17:57:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[titulo-de-colaborador]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[obfx-header-scripts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-05-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -953,6 +619,729 @@ Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:26:"2025/05/pokebola_certo.png";s:8:"filesize";i:387;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[fondo2]]></title>
+		<link>http://localhost/wordpress/?attachment_id=77</link>
+		<pubDate>Tue, 20 May 2025 10:32:54 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2025/05/fondo2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 12:32:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 10:32:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 12:33:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 10:33:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fondo2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2025/05/fondo2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/fondo2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:6400;s:6:"height";i:3600;s:4:"file";s:18:"2025/05/fondo2.jpg";s:8:"filesize";i:10455380;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Fondo pokémon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[soul-anchor]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Pokeshop]]></title>
+		<link>http://localhost/wordpress/</link>
+		<pubDate>Tue, 20 May 2025 10:41:56 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=80</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-link-color"><strong>¿Qué puedes hacer en PokeShop?</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-8bdd3488","align":"left","className":""} -->
+<h2 id="wp-block-themeisle-blocks-advanced-heading-8bdd3488" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-8bdd3488">¿Qué puedes hacer en PokeShop?</h2>
+<!-- /wp:themeisle-blocks/advanced-heading -->
+
+<!-- wp:themeisle-blocks/icon-list {"id":"wp-block-themeisle-blocks-icon-list-1d7d35f5","defaultIcon":"star","hideLabels":false,"className":""} -->
+<div id="wp-block-themeisle-blocks-icon-list-1d7d35f5" class="wp-block-themeisle-blocks-icon-list"><!-- wp:themeisle-blocks/icon-list-item {"id":"wp-block-themeisle-blocks-icon-list-item-2a50c41a","content":"","iconColor":"#EEEADD","library":"fontawesome","iconPrefix":"fas","icon":"star"} -->
+<div id="wp-block-themeisle-blocks-icon-list-item-2a50c41a" class="wp-block-themeisle-blocks-icon-list-item"><i class="fas fa-star wp-block-themeisle-blocks-icon-list-item-icon-custom"></i><p class="wp-block-themeisle-blocks-icon-list-item-content"></p></div>
+<!-- /wp:themeisle-blocks/icon-list-item -->
+
+<!-- wp:themeisle-blocks/icon-list-item {"id":"wp-block-themeisle-blocks-icon-list-item-184c5628","content":"Elemento 2 de la lista","library":"fontawesome","iconPrefix":"fas","icon":"check"} -->
+<div id="wp-block-themeisle-blocks-icon-list-item-184c5628" class="wp-block-themeisle-blocks-icon-list-item"><i class="fas fa-check wp-block-themeisle-blocks-icon-list-item-icon"></i><p class="wp-block-themeisle-blocks-icon-list-item-content">Elemento 2 de la lista</p></div>
+<!-- /wp:themeisle-blocks/icon-list-item -->
+
+<!-- wp:themeisle-blocks/icon-list-item {"id":"wp-block-themeisle-blocks-icon-list-item-3cb968c6","content":"Elemento 3 de la lista","library":"fontawesome","iconPrefix":"fas","icon":"check"} -->
+<div id="wp-block-themeisle-blocks-icon-list-item-3cb968c6" class="wp-block-themeisle-blocks-icon-list-item"><i class="fas fa-check wp-block-themeisle-blocks-icon-list-item-icon"></i><p class="wp-block-themeisle-blocks-icon-list-item-content">Elemento 3 de la lista</p></div>
+<!-- /wp:themeisle-blocks/icon-list-item --></div>
+<!-- /wp:themeisle-blocks/icon-list -->
+
+<!-- wp:paragraph -->
+<p>    ⭐ Comprar cartas exclusivas de Pokémon y ampliar tu colección.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>    ⭐ Vender tus cartas a otros entrenadores y ganar monedas virtuales.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>   ⭐ Administrar y exhibir tu colección en tu perfil personal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-link-color">    ⭐ Conectar con otros fans del universo Pokémon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:themeisle-blocks/slider {"id":"wp-block-themeisle-blocks-slider-5fc9f0e7","perView":2,"hideArrows":true} -->
+<div id="wp-block-themeisle-blocks-slider-5fc9f0e7" class="wp-block-themeisle-blocks-slider glide" data-per-view="2" data-gap="0" data-peek="0" data-autoplay="true" data-height="400px" data-hide-arrows="true"><div class="glide__track" data-glide-el="track"><div class="glide__slides"><div class="wp-block-themeisle-blocks-slider-item-wrapper glide__slide" tabindex="0"><figure><img class="wp-block-themeisle-blocks-slider-item" src="http://localhost/wordpress/wp-content/uploads/2025/05/blaziken.png" alt="" title="" data-id="89"/></figure></div><div class="wp-block-themeisle-blocks-slider-item-wrapper glide__slide" tabindex="0"><figure><img class="wp-block-themeisle-blocks-slider-item" src="http://localhost/wordpress/wp-content/uploads/2025/05/bulbasur.jpg" alt="" title="" data-id="90"/></figure></div><div class="wp-block-themeisle-blocks-slider-item-wrapper glide__slide" tabindex="0"><figure><img class="wp-block-themeisle-blocks-slider-item" src="http://localhost/wordpress/wp-content/uploads/2025/05/groudon.png" alt="" title="" data-id="92"/></figure></div><div class="wp-block-themeisle-blocks-slider-item-wrapper glide__slide" tabindex="0"><figure><img class="wp-block-themeisle-blocks-slider-item" src="http://localhost/wordpress/wp-content/uploads/2025/05/caterpie.jpg" alt="" title="" data-id="91"/></figure></div><div class="wp-block-themeisle-blocks-slider-item-wrapper glide__slide" tabindex="0"><figure><img class="wp-block-themeisle-blocks-slider-item" src="http://localhost/wordpress/wp-content/uploads/2025/05/pikachu.jpg" alt="" title="" data-id="93"/></figure></div><div class="wp-block-themeisle-blocks-slider-item-wrapper glide__slide" tabindex="0"><figure><img class="wp-block-themeisle-blocks-slider-item" src="http://localhost/wordpress/wp-content/uploads/2025/05/snorlax.jpg" alt="" title="" data-id="94"/></figure></div></div><div class="glide__bullets" data-glide-el="controls[nav]"><button class="glide__bullet" data-glide-dir="=0"></button><button class="glide__bullet" data-glide-dir="=1"></button><button class="glide__bullet" data-glide-dir="=2"></button><button class="glide__bullet" data-glide-dir="=3"></button><button class="glide__bullet" data-glide-dir="=4"></button><button class="glide__bullet" data-glide-dir="=5"></button></div></div></div>
+<!-- /wp:themeisle-blocks/slider -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 12:41:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 10:41:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:16:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:16:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pokeshop]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-header-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_themeisle_gutenberg_block_styles]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#wp-block-themeisle-blocks-advanced-heading-8bdd3488{--text-align:left}#wp-block-themeisle-blocks-icon-list-1d7d35f5{--label-visibility:}#wp-block-themeisle-blocks-icon-list-item-2a50c41a{--icon-color:#eeeadd}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_themeisle_gutenberg_block_stylesheet]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post-v2-80-1747739809]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/wordpress/?p=83</link>
+		<pubDate>Tue, 20 May 2025 10:45:06 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=83</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 12:45:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 10:45:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 12:45:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 10:45:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[83]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[80]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[twentytwentyone]]></title>
+		<link>http://localhost/wordpress/?p=84</link>
+		<pubDate>Tue, 20 May 2025 10:45:06 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=84</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 12:45:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 10:45:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 12:59:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 10:59:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[twentytwentyone]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[blaziken]]></title>
+		<link>http://localhost/wordpress/?attachment_id=89</link>
+		<pubDate>Tue, 20 May 2025 11:08:37 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2025/05/blaziken.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 13:08:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 11:08:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:08:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:08:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blaziken]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2025/05/blaziken.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/blaziken.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:245;s:6:"height";i:342;s:4:"file";s:20:"2025/05/blaziken.png";s:8:"filesize";i:57567;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[bulbasur]]></title>
+		<link>http://localhost/wordpress/?attachment_id=90</link>
+		<pubDate>Tue, 20 May 2025 11:08:38 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2025/05/bulbasur.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>90</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 13:08:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 11:08:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:08:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:08:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bulbasur]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2025/05/bulbasur.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/bulbasur.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:718;s:6:"height";i:1000;s:4:"file";s:20:"2025/05/bulbasur.jpg";s:8:"filesize";i:68381;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[caterpie]]></title>
+		<link>http://localhost/wordpress/?attachment_id=91</link>
+		<pubDate>Tue, 20 May 2025 11:08:39 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2025/05/caterpie.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 13:08:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 11:08:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:08:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:08:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[caterpie]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2025/05/caterpie.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/caterpie.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:714;s:6:"height";i:1000;s:4:"file";s:20:"2025/05/caterpie.jpg";s:8:"filesize";i:76448;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[groudon]]></title>
+		<link>http://localhost/wordpress/?attachment_id=92</link>
+		<pubDate>Tue, 20 May 2025 11:08:39 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2025/05/groudon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>92</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 13:08:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 11:08:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:08:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:08:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[groudon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2025/05/groudon.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/groudon.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:245;s:6:"height";i:342;s:4:"file";s:19:"2025/05/groudon.png";s:8:"filesize";i:178862;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pikachu]]></title>
+		<link>http://localhost/wordpress/?attachment_id=93</link>
+		<pubDate>Tue, 20 May 2025 11:08:40 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2025/05/pikachu.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>93</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 13:08:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 11:08:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:08:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:08:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pikachu]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2025/05/pikachu.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/pikachu.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:722;s:6:"height";i:1000;s:4:"file";s:19:"2025/05/pikachu.jpg";s:8:"filesize";i:108044;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[snorlax]]></title>
+		<link>http://localhost/wordpress/?attachment_id=94</link>
+		<pubDate>Tue, 20 May 2025 11:08:41 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2025/05/snorlax.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>94</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-20 13:08:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-20 11:08:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:08:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:08:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[snorlax]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/wordpress/wp-content/uploads/2025/05/snorlax.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/snorlax.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:715;s:4:"file";s:19:"2025/05/snorlax.jpg";s:8:"filesize";i:181209;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[¡Hola, mundo!]]></title>
+		<link>http://localhost/wordpress/?p=1</link>
+		<pubDate>Wed, 07 May 2025 08:03:44 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-07 10:03:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-07 08:03:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-07 15:51:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-07 13:51:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hola-mundo__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1746625880]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hola-mundo]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Un comentarista de WordPress]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://es.wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2025-05-07 10:03:44]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2025-05-07 08:03:44]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hola, esto es un comentario.
+Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
+Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Navegación]]></title>
+		<link>http://localhost/wordpress/?p=4</link>
+		<pubDate>Wed, 07 May 2025 08:03:54 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/2025/05/07/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-07 10:03:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-07 08:03:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-07 10:03:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-07 08:03:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Navegación]]></title>
+		<link>http://localhost/wordpress/?p=5</link>
+		<pubDate>Wed, 07 May 2025 08:03:54 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/index.php/2025/05/07/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Inicio","type":"page","id":27,"url":"http://localhost/wordpress/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Página de ejemplo","type":"page","id":2,"url":"http://localhost/wordpress/?page_id=2","kind":"post-type"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-07 10:03:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-07 08:03:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-07 16:28:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-07 14:28:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[navigation]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://localhost/wordpress/?p=7</link>
+		<pubDate>Wed, 07 May 2025 08:08:32 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-07 10:08:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-07 08:08:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-07 10:08:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-07 08:08:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Pokeshop]]></title>
+		<link>http://localhost/wordpress/?p=25</link>
+		<pubDate>Wed, 07 May 2025 14:12:04 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:themeisle-blocks/advanced-columns {"id":"wp-block-themeisle-blocks-advanced-columns-2c60bc77","columns":1,"layout":"equal","layoutMobile":"collapsedRows","padding":{"top":"96px","right":"24px","bottom":"96px","left":"24px"},"paddingTablet":{"top":"64px","right":"24px","bottom":"64px","left":"24px"},"paddingMobile":{"top":"40px","bottom":"40px"},"margin":{"top":"0px","bottom":"0px"},"columnsWidth":960,"horizontalAlign":"center","columnsHeightCustom":600,"columnsHeightCustomMobile":600,"verticalAlign":"center","backgroundType":"image","backgroundImage":{"id":261,"url":"https://api.themeisle.com/sites/images/cb:otter/q:auto/wp-content/uploads/sites/664/2022/09/image-from-rawpixel-id-1054551-jpeg.jpg"},"backgroundPosition":{"x":"0.49","y":"0.51"},"backgroundRepeat":"no-repeat","backgroundSize":"cover","backgroundOverlayOpacity":30,"backgroundOverlayColor":"#000000","reverseColumnsMobile":true,"align":"full","className":"ticss-c00aadba","hasCustomCSS":true,"customCSS":""} -->
+<div id="wp-block-themeisle-blocks-advanced-columns-2c60bc77" class="wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-reverse-columns-mobile has-vertical-center ticss-c00aadba"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><!-- wp:themeisle-blocks/advanced-column {"id":"wp-block-themeisle-blocks-advanced-column-75b9263d","paddingMobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"columnWidth":"100","className":""} -->
+<div id="wp-block-themeisle-blocks-advanced-column-75b9263d" class="wp-block-themeisle-blocks-advanced-column"><!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-5d5675df","tag":"h1","align":"center","alignTablet":"center","alignMobile":"center","headingColor":"#ffffff","fontSize":80,"fontSizeTablet":56,"fontSizeMobile":32,"className":""} -->
+<h1 id="wp-block-themeisle-blocks-advanced-heading-5d5675df" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5d5675df">Pokeshop</h1>
+<!-- /wp:themeisle-blocks/advanced-heading -->
+
+<!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-40ecd43d","tag":"p","align":"center","alignTablet":"center","alignMobile":"center","headingColor":"#ffffff","fontSize":32,"className":""} -->
+<p id="wp-block-themeisle-blocks-advanced-heading-40ecd43d" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-40ecd43d">Tu tienda Pokémon de confianza</p>
+<!-- /wp:themeisle-blocks/advanced-heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:themeisle-blocks/advanced-column --></div></div>
+<!-- /wp:themeisle-blocks/advanced-columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-07 16:12:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-07 14:12:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-07 16:13:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-07 14:13:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[pokeshop__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-header-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1746627234]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pokeshop]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Título de editor]]></title>
+		<link>http://localhost/wordpress/?p=68</link>
+		<pubDate>Tue, 13 May 2025 17:51:18 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=68</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Soy la entrada del editor</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>68</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-13 19:51:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-13 17:51:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:02:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:02:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[titulo-de-editor__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-header-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1747738930]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[titulo-de-editor]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Título de Colaborador]]></title>
+		<link>http://localhost/wordpress/?p=71</link>
+		<pubDate>Tue, 13 May 2025 17:57:04 +0000</pubDate>
+		<dc:creator><![CDATA[PW]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=71</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Soy la entrada del colaborador</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-13 19:57:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-13 17:57:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-20 13:02:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-20 11:02:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[titulo-de-colaborador__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="sin-categoria"><![CDATA[Sin categoría]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-header-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[obfx-footer-scripts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1747738930]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[titulo-de-colaborador]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
